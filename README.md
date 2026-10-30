@@ -2,6 +2,8 @@
 
 国王大道护送主题的卡通微缩场景资产资料库。
 
+新增：[18 件单体四视图造型参考](design/assets-turnarounds/README.md) · [本地浏览图册](design/assets-turnarounds/index.html)。每张图板单独展示一件资产，包含正面、右侧、背面和顶面，用于下一轮精细建模。
+
 ## 运行交互作品
 
 下载并双击 [overwatch-diorama.html](overwatch-diorama.html)。所有运行代码、几何、材质和图标已内嵌，可离线运行。
