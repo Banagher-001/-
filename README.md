@@ -4,6 +4,8 @@
 
 新增：[四方向视觉参考与固定坐标布局](design/README.md) · [按图匹配的资产清单](assets/catalog/四视图资产匹配.md)。
 
+制作基线：[单文件交互 HTML 制作执行标准 v1.0](docs/制作执行标准-v1.md)，包含灯光/房间交互、时间系统、性能预算和验收清单。
+
 ![国王大道概念图](assets/concepts/kings-row-diorama.png)
 
 ## 已放入仓库
