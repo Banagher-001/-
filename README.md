@@ -1,0 +1,52 @@
+# 守望先锋微缩场景
+
+国王大道护送主题的卡通微缩场景资产资料库。
+
+![国王大道概念图](assets/concepts/kings-row-diorama.png)
+
+## 已放入仓库
+
+- 本次生成的概念图 PNG；它是二维设计参考，不是可编辑的三维模型。
+- [推荐资产与使用说明](assets/catalog/资产清单.md)：护送车、国王大道道具包、猎空、莱因哈特、死神等。
+- [Steam 资产目录](assets/catalog/steam-assets.json)：9 个已读取详情的模型包/场景条目。
+- [Sketchfab 检索目录](assets/catalog/sketchfab-candidates.json)：64 个去重后的搜索候选，包含未采用或不相关的结果，不表示全部适合本项目。
+- 官方来源获取工具，可查询 Steam 模型文件信息并下载到独立的本地素材库。
+
+## 模型文件状态
+
+**本仓库当前没有上述第三方模型的二进制文件。**公开下载链接并不等同于允许把文件重新发布到公开 GitHub 仓库。死神和另一版莱因哈特的作者明确禁止未经许可再次分发；其余 Steam 条目的再次分发许可尚未核实。Sketchfab 下载需要账号授权，本次未获取模型文件。
+
+这些社区移植模型的原始角色、模型与贴图权利归原权利人；目录不授予额外使用权。Kenney City Kit (Commercial) 也曾作为通用场景备选查阅：[官方来源](https://kenney.nl/assets/city-kit-commercial)，页面标注 CC0，本仓库未收录其压缩包。
+
+## 从官方来源获取本地模型
+
+只查询信息，不下载：
+
+```sh
+python3 tools/fetch_steam_asset.py --id 1388222994
+```
+
+从 Steam 官方文件接口下载到独立目录：
+
+```sh
+python3 tools/fetch_steam_asset.py --id 1388222994 --download --output /workspace/model-library
+```
+
+批量获取本项目主要条目：
+
+```sh
+python3 tools/fetch_steam_asset.py \
+  --id 1388222994 --id 685994386 --id 685956699 \
+  --id 805261541 --id 805261856 --id 740614996 \
+  --download --output /workspace/model-library
+```
+
+脚本保留系统代理和 TLS 校验；不会修改模型，不会上传下载文件，不会保存临时下载地址。下载后应自行检查源文件使用条款。旧条目可能失效，脚本会明确报错，不使用非官方镜像替代。
+
+以上主要是 SFM/Source `.mdl` 文件；需要先验证 Blender 导入、贴图和骨骼，再按需导出 FBX 给 Cascadeur。当前没有执行模型转换或验证动画兼容性。
+
+## 检索记录
+
+2026-10-30 使用用户上传的 Scrapling skill（Scrapling 0.5）检索公开目录。Steam 官方文件详情接口已成功返回六个主要条目的文件元数据及下载地址。
+
+获取脚本已实际下载并核对一份《守望先锋 2》猎空文件：89,982,682 字节，SHA256 `622c7989dbbe4b7fd08051078b6db34ee26780d944d11debe65ea27a35413d13`。该文件仅保存在当前云环境的 `/workspace/model-library/`，未放入 GitHub 仓库，未验证导入和骨骼兼容。作者说明与实际导入结果可能存在差异。
