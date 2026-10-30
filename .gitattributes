@@ -1,0 +1,2 @@
+# Bundled HTML includes upstream GLSL template strings; preserve their whitespace.
+overwatch-diorama.html linguist-generated=true -whitespace

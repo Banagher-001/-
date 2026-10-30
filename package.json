@@ -1,0 +1,9 @@
+{
+  "name": "overwatch-diorama",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"build": "node web/build.mjs", "test": "node web/state.test.mjs"},
+  "dependencies": {"three": "0.180.0"},
+  "devDependencies": {"esbuild": "0.25.10"}
+}

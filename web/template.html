@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#10242e"><title>国王大道 · 守望先锋微缩场景</title>
+<style>/*__STYLE__*/</style>
+</head>
+<body>
+<div id="viewport" aria-label="可旋转的国王大道三维微缩场景"></div>
+<div id="loading"><div class="load-mark">◈</div><p>正在布置国王大道</p><small>组装街景 · 准备灯光</small></div>
+<header>
+ <div class="brand"><div class="brand-icon">◈</div><div><div class="eyebrow">MINIATURE WORLDS <span> / 01</span></div><h1>国王大道<span class="title-dot">.</span></h1><p>KING’S ROW · 守望先锋微缩场景</p></div></div>
+ <div class="header-actions"><button id="helpButton" class="icon-button" title="操作说明" aria-label="操作说明">?</button><button id="panelButton" class="pill" aria-expanded="false" aria-controls="lightPanel"><span class="bulb-icon">✦</span> 灯光控制 <span id="litCount">0 / 7</span></button></div>
+</header>
+<nav id="views" aria-label="观察视角"><span class="nav-caption">观察视角</span><button data-view="showcase" class="active">展示</button><button data-view="front">正面</button><button data-view="top">顶面</button><button data-view="right">右侧</button><button data-view="back">背面</button><button id="resetView" title="复位视角" aria-label="复位视角">↺</button></nav>
+<div class="scene-caption"><span class="live-dot"></span><span id="sceneMood">黄昏时分</span><span class="caption-line"></span><span>伦敦的一小片时光</span></div>
+<aside id="lightPanel" class="glass" hidden aria-label="灯光控制面板">
+ <div class="panel-heading"><div><span class="eyebrow">LIGHTING STUDIO</span><h2>点亮这座小城</h2></div><button id="closePanel" class="icon-button" aria-label="关闭灯光面板">×</button></div>
+ <p class="panel-note">点击街灯或窗户，也可以在这里选择。</p><div id="lightList"></div>
+ <div id="selection" hidden><div class="selected-title"><span id="selectedName"></span><span id="selectedStatus"></span></div><fieldset id="modes"><legend class="sr-only">灯光模式</legend><label><input type="radio" name="mode" value="auto">自动</label><label><input type="radio" name="mode" value="on">常亮</label><label><input type="radio" name="mode" value="off">关闭</label></fieldset><label class="brightness-label" for="brightness">亮度 <output id="brightnessValue">80%</output></label><input type="range" id="brightness" min="0" max="100" value="80" aria-label="选中灯光的亮度"><p class="micro-note" id="modeHelp">自动模式跟随昼夜变化。</p></div>
+ <div class="panel-footer"><button id="autoAll" class="text-button">全部恢复自动</button><button id="hintButton" class="text-button" aria-pressed="false">显示交互点</button></div>
+</aside>
+<div id="tooltip" role="tooltip" hidden></div><div id="hints"></div>
+<section id="timePanel" class="glass" aria-label="场景时间控制">
+ <div class="time-top"><div class="clock-group"><div class="eyebrow">SCENE TIME <span id="periodLabel">/ 黄昏</span></div><output id="timeValue" for="timeSlider">18:30</output><span id="timeNote">把时间留在喜欢的一刻</span></div><div class="time-actions"><div class="presets" aria-label="快捷时间"><button data-time="360">☀<span>黎明</span></button><button data-time="720">☼<span>白天</span></button><button data-time="1080">◐<span>黄昏</span></button><button data-time="1380">☾<span>深夜</span></button></div><div class="playback"><select id="speed" aria-label="时间流逝速度"><option value="0.5">0.5×</option><option value="1" selected>1×</option><option value="2">2×</option></select><button id="play" class="play-button" aria-label="播放时间" aria-pressed="false">▶</button></div></div></div>
+ <label class="sr-only" for="timeSlider">时间，单位为午夜后的分钟数</label><input type="range" id="timeSlider" min="0" max="1439" step="1" value="1110" aria-valuetext="18:30"><div class="time-scale"><span>00:00</span><span>06:00</span><span>12:00</span><span>18:00</span><span>24:00</span></div>
+</section>
+<footer><span>拖动旋转 <b>·</b> 滚轮缩放 <b>·</b> 点击灯光</span><div><button id="effectsButton" aria-pressed="true">✧ 能量特效</button><button id="resetAll">重置场景</button><button id="creditsButton">关于作品</button></div></footer>
+<div id="toast" role="status" aria-live="polite"></div>
+<dialog id="helpDialog"><button class="dialog-close icon-button" aria-label="关闭">×</button><span class="eyebrow">A LITTLE WORLD, YOUR WAY</span><h2>让这条街，慢下来。</h2><p>转动微缩场景，找到喜欢的角度。点击路灯、窗户或电话亭，决定哪一盏灯为你亮着。</p><dl><dt>观察</dt><dd>拖动旋转，滚轮缩放，右键拖动平移；触屏使用单指旋转、双指缩放。</dd><dt>灯光</dt><dd>单击直接开关。选中后可调亮度，或恢复“自动”。手动设置不会被昼夜变化覆盖。</dd><dt>时间</dt><dd>拖动滑块选择时刻，或播放一天的光影。拖动时间会暂停播放。</dd></dl><button class="dialog-close primary">开始探索</button></dialog>
+<dialog id="creditsDialog"><button class="dialog-close icon-button" aria-label="关闭">×</button><span class="eyebrow">ABOUT THIS MINIATURE</span><h2>国王大道 · 微缩时光</h2><p>基于已确定的空间布局，以原创程序化几何制作的卡通同人三维场景。场景、角色与材质在此文件中实时构建，没有嵌入提取的游戏模型。</p><p>《守望先锋》及角色名称属于其各自权利人。本作品为非官方同人展示。</p><p>使用 Three.js（MIT）。所有运行资源内嵌，可离线打开。相机、七个灯光分区与昼夜系统均为实时交互。</p><details><summary>开源软件许可</summary><pre id="licenseText">Three.js — Copyright © 2010–2025 three.js authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</pre></details></dialog>
+<noscript>需要启用 JavaScript 才能运行三维场景和灯光交互。</noscript>
+<script>/*__APP__*/</script>
+</body></html>

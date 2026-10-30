@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "html_sha256": "5abb358d0bb9ea4a006c56497596b6c23192cfd06e32c4dc56353b4eba225a1d",
+  "browser": "156.0.8078.4",
+  "mode": "390x844 touch-input emulation, not physical phone",
+  "checks": [
+    "actual touch lamp ray-picking",
+    "two-finger gesture does not toggle lights",
+    "touch room controls and time priority"
+  ],
+  "errors": []
+}

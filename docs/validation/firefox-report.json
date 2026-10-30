@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "browser": "157.0",
+  "errors": [],
+  "metrics": {
+    "triangles": 105776,
+    "drawCalls": 86,
+    "averageFPS": 10.171905197843557,
+    "frameSamples": 20,
+    "lowQuality": false,
+    "renderer": "llvmpipe, or similar",
+    "softwareGPU": true,
+    "loadMs": 701,
+    "textures": 2,
+    "geometries": 78,
+    "programs": 8,
+    "errors": []
+  },
+  "html_sha256": "5abb358d0bb9ea4a006c56497596b6c23192cfd06e32c4dc56353b4eba225a1d",
+  "display": "Xvfb :99, Mesa software rendering"
+}

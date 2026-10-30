@@ -1,0 +1,30 @@
+{
+  "blender": "4.3.2",
+  "models": [
+    {
+      "file": "lamppost.mdl",
+      "status": "failed",
+      "error_summary": "Legacy material path is absolute and cannot be joined to relative materials directory."
+    },
+    {
+      "file": "king's_row_payload_v3.mdl",
+      "operator": [
+        "FINISHED"
+      ],
+      "mesh_count": 12,
+      "vertices": 50259,
+      "material_count": 12,
+      "status": "imported"
+    }
+  ],
+  "current_sourceio_commit": "bf56fbba5fc1451064118fe40e64c8399dfda556",
+  "latest_plugin_attempt": "fe24260b97ac03b899d9b5d4f0fd7b34772f3647: needs GLIBC 2.43, unavailable in this environment",
+  "compatibility_adjustments": [
+    "Use older official SourceIO revision",
+    "Set explicit model directory",
+    "Adapt __fspath__ to return str for Python 3.13",
+    "Run legacy relative lookup from each asset root"
+  ],
+  "used_in_html": false,
+  "html_asset_route": "Original procedural geometry, no extracted model assets embedded"
+}
