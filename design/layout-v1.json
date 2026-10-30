@@ -1,0 +1,174 @@
+{
+  "version": "1.0",
+  "units": "centimeters",
+  "note": "Designer-selected miniature dimensions, not official game measurements. Coordinates are authoritative for blocking; generated art may vary.",
+  "axes": {
+    "X": "right in front view",
+    "Y": "front (0) to rear (34)",
+    "Z": "up; ground = 0"
+  },
+  "base": {
+    "min": [
+      -20,
+      0,
+      -3
+    ],
+    "size": [
+      40,
+      34,
+      3
+    ]
+  },
+  "objects": [
+    {
+      "id": "B01",
+      "name": "Main building",
+      "min": [
+        -4,
+        24,
+        0
+      ],
+      "size": [
+        16,
+        9,
+        26
+      ],
+      "color": "#bc775c"
+    },
+    {
+      "id": "W01",
+      "name": "Alley wall",
+      "min": [
+        17.5,
+        22,
+        0
+      ],
+      "size": [
+        1,
+        11,
+        16
+      ],
+      "color": "#a26147"
+    },
+    {
+      "id": "P01",
+      "name": "Phone booth",
+      "min": [
+        -16.5,
+        22.5,
+        0
+      ],
+      "size": [
+        5,
+        5,
+        10
+      ],
+      "color": "#d9534f"
+    },
+    {
+      "id": "L01",
+      "name": "Street lamp",
+      "min": [
+        -16,
+        16,
+        0
+      ],
+      "size": [
+        2,
+        2,
+        18
+      ],
+      "color": "#53636e"
+    },
+    {
+      "id": "V01",
+      "name": "Payload",
+      "min": [
+        -4.5,
+        11,
+        1
+      ],
+      "size": [
+        9,
+        10,
+        7
+      ],
+      "color": "#eba24b"
+    },
+    {
+      "id": "C01",
+      "name": "Tracer",
+      "min": [
+        -12,
+        4,
+        0
+      ],
+      "size": [
+        4,
+        4,
+        7
+      ],
+      "color": "#ed9f49"
+    },
+    {
+      "id": "C02",
+      "name": "Reinhardt",
+      "min": [
+        6.5,
+        6.5,
+        0
+      ],
+      "size": [
+        7,
+        7,
+        10
+      ],
+      "color": "#869aa9"
+    },
+    {
+      "id": "C03",
+      "name": "Reaper",
+      "min": [
+        13.5,
+        25.5,
+        0
+      ],
+      "size": [
+        3,
+        3,
+        7
+      ],
+      "color": "#605b72"
+    },
+    {
+      "id": "F01",
+      "name": "Shield",
+      "min": [
+        12,
+        10,
+        0
+      ],
+      "size": [
+        2,
+        6,
+        11
+      ],
+      "color": "#73d4e8"
+    },
+    {
+      "id": "F02",
+      "name": "Blink trail",
+      "min": [
+        -12,
+        5,
+        0.2
+      ],
+      "size": [
+        5,
+        9,
+        0.3
+      ],
+      "color": "#a3e6ed"
+    }
+  ]
+}

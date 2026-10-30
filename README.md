@@ -2,6 +2,8 @@
 
 国王大道护送主题的卡通微缩场景资产资料库。
 
+新增：[四方向视觉参考与固定坐标布局](design/README.md) · [按图匹配的资产清单](assets/catalog/四视图资产匹配.md)。
+
 ![国王大道概念图](assets/concepts/kings-row-diorama.png)
 
 ## 已放入仓库

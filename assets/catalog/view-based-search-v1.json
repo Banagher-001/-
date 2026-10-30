@@ -1,0 +1,715 @@
+{
+  "checked_at": "2026-10-30T08:28:24.445633+00:00",
+  "method": "Scrapling 0.5 Fetcher; public listings and official API; maximum two workers; delays; TLS verified; no authentication bypass.",
+  "robots_observation": "Steam rules checked and search/details permitted. Sketchfab API robots redirects to website robots, which returned a 202 challenge; API returned public search metadata. No website page crawl performed on Sketchfab.",
+  "results": [
+    {
+      "query": "Overwatch Kings Row",
+      "url": "https://steamcommunity.com/workshop/browse/?appid=1840&searchtext=Overwatch+Kings+Row&browsesort=textsearch&section=readytouseitems",
+      "http_status": 200,
+      "models": [
+        {
+          "name": "Overwatch - Kings Row Prop Pack",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=685994386",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - King's Row Session",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=808713206",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Hanamura - Overwatch",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801597457",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Tracer - Overwatch",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=685956699",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "DVA - Overwatch [With Mech]",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=685967820",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - Arcade Props",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=750141231",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - Luna",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2153283411",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Genji - Overwatch",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=704859663",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - Zenyatta",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=921501031",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch: Reinhardt",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=797302692",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Sunset King",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2434465175",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Reinhardt - Overwatch",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=805261541",
+          "status": "listing_found_details_not_verified"
+        }
+      ],
+      "site": "steam"
+    },
+    {
+      "query": "Overwatch props",
+      "url": "https://steamcommunity.com/workshop/browse/?appid=1840&searchtext=Overwatch+props&browsesort=textsearch&section=readytouseitems",
+      "http_status": 200,
+      "models": [
+        {
+          "name": "Overwatch - Arcade Props",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=750141231",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - Route 66 Diner Prop Pack",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=770245786",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - Hanamura Dojo/Garden Prop Pack",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=846044958",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - Kings Row Prop Pack",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=685994386",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - Ilios Spawn PROP PACK",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=912186451",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Prop Stacker",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3671880047",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Breakfast Plates (Props)",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3493698233",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - Luna",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2153283411",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Hanamura - Overwatch",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801597457",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Tracer - Overwatch",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=685956699",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Church Prop",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3366252246",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "End Of The Line Props",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=586886935",
+          "status": "listing_found_details_not_verified"
+        }
+      ],
+      "site": "steam"
+    },
+    {
+      "query": "Victorian street",
+      "url": "https://steamcommunity.com/workshop/browse/?appid=1840&searchtext=Victorian+street&browsesort=textsearch&section=readytouseitems",
+      "http_status": 200,
+      "models": [
+        {
+          "name": "sfm_street",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1402940423",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "[L4D2] Streets (Cleaned)",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2984681023",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Victorian Curtains / Rugs / Carpets  [Sims4 Vampire Pack]",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2273944761",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "sfm_tf2streets (+night version)",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2868011766",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "VIctorian Styled Bathroom Essentials  [Sims4 Vampire Pack]",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2276079110",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Street Fighter - Ryu",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=750176380",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Street Fighter - Chun Li",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=752353844",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "[Zenless Zone Zero] Sixth Street [Read Desc.]",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3568179867",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Persona 5: Central Street",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2288654264",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Backfire of alley street",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1832067549",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Victorian Styled Seats [Sims4 Vampire Pack]",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2271742114",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "VIctorian Styled Bed  [Sims4 Vampire Pack]",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2276198584",
+          "status": "listing_found_details_not_verified"
+        }
+      ],
+      "site": "steam"
+    },
+    {
+      "query": "Overwatch effects",
+      "url": "https://steamcommunity.com/workshop/browse/?appid=1840&searchtext=Overwatch+effects&browsesort=textsearch&section=readytouseitems",
+      "http_status": 200,
+      "models": [
+        {
+          "name": "[Particle] Snow effects",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=557416662",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Hanamura - Overwatch",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801597457",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Tracer - Overwatch",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=685956699",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Simple alpha plane effects",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3786967037",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "MS Effect",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2414991823",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "DVA - Overwatch [With Mech]",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=685967820",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Generic explosion effect",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1847851576",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - Arcade Props",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=750141231",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Placeable Particle Effects [SFM PORT]",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3348356852",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - Luna",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2153283411",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Genji - Overwatch",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=704859663",
+          "status": "listing_found_details_not_verified"
+        },
+        {
+          "name": "Overwatch - Zenyatta",
+          "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=921501031",
+          "status": "listing_found_details_not_verified"
+        }
+      ],
+      "site": "steam"
+    },
+    {
+      "query": "window flower box",
+      "url": "https://api.sketchfab.com/v3/search?type=models&q=window+flower+box&downloadable=true&count=4",
+      "http_status": 200,
+      "models": [
+        {
+          "id": "05fcca4d7470450eabd295776ac0b01e",
+          "name": "Window Flower Box 02",
+          "url": "https://sketchfab.com/models/05fcca4d7470450eabd295776ac0b01e",
+          "author": "hiredweapon",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 664,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "d8ec0f4d69fd4d8a8b42fd1affe19a98",
+          "name": "flowers_white",
+          "url": "https://sketchfab.com/models/d8ec0f4d69fd4d8a8b42fd1affe19a98",
+          "author": "sam_ogon",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 498,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "62cbf42ea5e244bb913696c50c7b7ba6",
+          "name": "Window Flower Box R02b_FLAT",
+          "url": "https://sketchfab.com/models/62cbf42ea5e244bb913696c50c7b7ba6",
+          "author": "hiredweapon",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 1128,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "d3c1266f00f1424d809726c497cbca49",
+          "name": "flowers_red",
+          "url": "https://sketchfab.com/models/d3c1266f00f1424d809726c497cbca49",
+          "author": "sam_ogon",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 620,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        }
+      ],
+      "site": "sketchfab"
+    },
+    {
+      "query": "street bollard",
+      "url": "https://api.sketchfab.com/v3/search?type=models&q=street+bollard&downloadable=true&count=4",
+      "http_status": 200,
+      "models": [
+        {
+          "id": "9b9db79ae21c4e118423efae658e7fb7",
+          "name": "Street Bollard",
+          "url": "https://sketchfab.com/models/9b9db79ae21c4e118423efae658e7fb7",
+          "author": "Faheem Yusuf",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 1504,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "705eaa31bb9b47b6b59cf08a0f1e0545",
+          "name": "Haydon Street Bollard",
+          "url": "https://sketchfab.com/models/705eaa31bb9b47b6b59cf08a0f1e0545",
+          "author": "artfletch",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 98972,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "cb3dfbc282e74ac5bb0c83e1a6df37b9",
+          "name": "British Street Bollard",
+          "url": "https://sketchfab.com/models/cb3dfbc282e74ac5bb0c83e1a6df37b9",
+          "author": "Warcub",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 6296,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "0ee5d2b722b446a1a1ace6bdfdc07968",
+          "name": "Haydon Street Bollard",
+          "url": "https://sketchfab.com/models/0ee5d2b722b446a1a1ace6bdfdc07968",
+          "author": "artfletch",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 98152,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        }
+      ],
+      "site": "sketchfab"
+    },
+    {
+      "query": "drainpipe",
+      "url": "https://api.sketchfab.com/v3/search?type=models&q=drainpipe&downloadable=true&count=4",
+      "http_status": 200,
+      "models": [
+        {
+          "id": "3fe89c52344c42a0a0fd327a9d5839ff",
+          "name": "Rain Drainpipe",
+          "url": "https://sketchfab.com/models/3fe89c52344c42a0a0fd327a9d5839ff",
+          "author": "CrazyScans",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 19999,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "3f9ad55198124b75aa0d46467cb27090",
+          "name": "jcs 2 - the drainpipe",
+          "url": "https://sketchfab.com/models/3f9ad55198124b75aa0d46467cb27090",
+          "author": "amogusstrikesback2",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 7048,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "622b27d146ec4d5b8ca865d0531fe6c6",
+          "name": "Narrow Street Photorealistic",
+          "url": "https://sketchfab.com/models/622b27d146ec4d5b8ca865d0531fe6c6",
+          "author": "MushyDay",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 3743,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "8e4d09438dfb4df7a28f457fada6bef6",
+          "name": "Weathered Wall Objects | Game Ready | 4K",
+          "url": "https://sketchfab.com/models/8e4d09438dfb4df7a28f457fada6bef6",
+          "author": "bralunit",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 1104,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        }
+      ],
+      "site": "sketchfab"
+    },
+    {
+      "query": "arched window",
+      "url": "https://api.sketchfab.com/v3/search?type=models&q=arched+window&downloadable=true&count=4",
+      "http_status": 200,
+      "models": [
+        {
+          "id": "01c81b9173d9464aa8f3cb343432cbb7",
+          "name": "Quadruple arched window",
+          "url": "https://sketchfab.com/models/01c81b9173d9464aa8f3cb343432cbb7",
+          "author": "1-3D.com",
+          "license": "CC Attribution-ShareAlike",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 2232,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "c5e9d383959c480a952c8f7c020bbbc5",
+          "name": "Double arched window 490",
+          "url": "https://sketchfab.com/models/c5e9d383959c480a952c8f7c020bbbc5",
+          "author": "1-3D.com",
+          "license": "CC Attribution-ShareAlike",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 2072,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "2bdc85f68f8043529fd77c8d90136c97",
+          "name": "Double arched window",
+          "url": "https://sketchfab.com/models/2bdc85f68f8043529fd77c8d90136c97",
+          "author": "1-3D.com",
+          "license": "CC Attribution-ShareAlike",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 1560,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "43a94ccc57c542f49753cc804a533f4f",
+          "name": "Simple Arched Window",
+          "url": "https://sketchfab.com/models/43a94ccc57c542f49753cc804a533f4f",
+          "author": "TagnumElite",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 40172,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        }
+      ],
+      "site": "sketchfab"
+    },
+    {
+      "query": "cobblestone pavement",
+      "url": "https://api.sketchfab.com/v3/search?type=models&q=cobblestone+pavement&downloadable=true&count=4",
+      "http_status": 200,
+      "models": [
+        {
+          "id": "09b2a6f8afe74674ade18f95795a88ea",
+          "name": "Calçada / Stone pavement",
+          "url": "https://sketchfab.com/models/09b2a6f8afe74674ade18f95795a88ea",
+          "author": "Polo Arqueológico de Viseu",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 846039,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "023d013b078644a49ce1e8d68fb6e737",
+          "name": "Outdoor Garbage Bin on Cobblestone Pavement",
+          "url": "https://sketchfab.com/models/023d013b078644a49ce1e8d68fb6e737",
+          "author": "Cygnos",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 540017,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "c8386177175e4e94a7362a6baa437d69",
+          "name": "Granite parkway paving",
+          "url": "https://sketchfab.com/models/c8386177175e4e94a7362a6baa437d69",
+          "author": "333DDD",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 487660,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "ef3ef45e0a064e7486b72e6694e423cf",
+          "name": "Brick Pillar with Curved Wall - Urban Detail",
+          "url": "https://sketchfab.com/models/ef3ef45e0a064e7486b72e6694e423cf",
+          "author": "Cygnos",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 1999999,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        }
+      ],
+      "site": "sketchfab"
+    },
+    {
+      "query": "metal trash bin",
+      "url": "https://api.sketchfab.com/v3/search?type=models&q=metal+trash+bin&downloadable=true&count=4",
+      "http_status": 200,
+      "models": [
+        {
+          "id": "3057e7f5b6c441fcb67c44e68d77dd38",
+          "name": "Public Trash Bin 1",
+          "url": "https://sketchfab.com/models/3057e7f5b6c441fcb67c44e68d77dd38",
+          "author": "Elasta Kristya",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 8940,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "86a131ecad344c05b166de522469088f",
+          "name": "Metal Trash Bin",
+          "url": "https://sketchfab.com/models/86a131ecad344c05b166de522469088f",
+          "author": "neverfollow81",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 1476,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "e915c0da07ce42a2b5ba080da135a751",
+          "name": "Trash bin metal waste garbage can - free",
+          "url": "https://sketchfab.com/models/e915c0da07ce42a2b5ba080da135a751",
+          "author": "matousekfoto",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 187585,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "acf11a0d63cb4955b554d7f2e9bfc182",
+          "name": "Metal Garbage Bin",
+          "url": "https://sketchfab.com/models/acf11a0d63cb4955b554d7f2e9bfc182",
+          "author": "Alexander Korn",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 2252,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        }
+      ],
+      "site": "sketchfab"
+    },
+    {
+      "query": "road barrier",
+      "url": "https://api.sketchfab.com/v3/search?type=models&q=road+barrier&downloadable=true&count=4",
+      "http_status": 200,
+      "models": [
+        {
+          "id": "85b489ac36344ca9af98a78ecffa186f",
+          "name": "Road Barrier",
+          "url": "https://sketchfab.com/models/85b489ac36344ca9af98a78ecffa186f",
+          "author": "Sousinho",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 2228,
+          "animations": 1,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "42793f318ef04c1aacd4fc623e7ef6f8",
+          "name": "Road Barrier",
+          "url": "https://sketchfab.com/models/42793f318ef04c1aacd4fc623e7ef6f8",
+          "author": "Blender Artist",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 94,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "bbc824137db540cabcccb0091fcd3222",
+          "name": "Road Barrier Collection",
+          "url": "https://sketchfab.com/models/bbc824137db540cabcccb0091fcd3222",
+          "author": "Miguel Teixeira",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 3867,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "e2b2282e32dc48c6bf31369cd800690a",
+          "name": "low poly road barrier",
+          "url": "https://sketchfab.com/models/e2b2282e32dc48c6bf31369cd800690a",
+          "author": "muji",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 634,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        }
+      ],
+      "site": "sketchfab"
+    },
+    {
+      "query": "victorian wall lantern",
+      "url": "https://api.sketchfab.com/v3/search?type=models&q=victorian+wall+lantern&downloadable=true&count=4",
+      "http_status": 200,
+      "models": [
+        {
+          "id": "b2aaa827a4ce49a58b73b769cf85cddd",
+          "name": "Victorian Iron Wall Lantern",
+          "url": "https://sketchfab.com/models/b2aaa827a4ce49a58b73b769cf85cddd",
+          "author": "Kalabaris",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 18590,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "544db7e9c83e40f28210cfce92d7b451",
+          "name": "Magic Lantern",
+          "url": "https://sketchfab.com/models/544db7e9c83e40f28210cfce92d7b451",
+          "author": "artfletch",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 498408,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        },
+        {
+          "id": "229297cc0702424e8974e20f7e818f52",
+          "name": "Vintage Flashlight",
+          "url": "https://sketchfab.com/models/229297cc0702424e8974e20f7e818f52",
+          "author": "Ph7",
+          "license": "CC Attribution",
+          "license_url": null,
+          "downloadable_on_platform": true,
+          "triangles": 16332,
+          "animations": 0,
+          "status": "metadata_only_not_downloaded_not_imported"
+        }
+      ],
+      "site": "sketchfab"
+    }
+  ]
+}

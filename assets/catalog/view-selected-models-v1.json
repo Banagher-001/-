@@ -1,0 +1,150 @@
+{
+  "checked_at": "2026-10-30",
+  "status": "public detail metadata verified; no model files downloaded",
+  "models": [
+    {
+      "uid": "05fcca4d7470450eabd295776ac0b01e",
+      "name": "Window Flower Box 02",
+      "faceCount": 664,
+      "isDownloadable": true,
+      "animationCount": 0,
+      "textureCount": 0,
+      "materialCount": 5,
+      "author": "hiredweapon",
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      }
+    },
+    {
+      "uid": "cb3dfbc282e74ac5bb0c83e1a6df37b9",
+      "name": "British Street Bollard",
+      "faceCount": 6296,
+      "isDownloadable": true,
+      "animationCount": 0,
+      "textureCount": 10,
+      "materialCount": 2,
+      "author": "Warcub",
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      }
+    },
+    {
+      "uid": "3fe89c52344c42a0a0fd327a9d5839ff",
+      "name": "Rain Drainpipe",
+      "faceCount": 19999,
+      "isDownloadable": true,
+      "animationCount": 0,
+      "textureCount": 5,
+      "materialCount": 1,
+      "author": "CrazyScans",
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      }
+    },
+    {
+      "uid": "8e4d09438dfb4df7a28f457fada6bef6",
+      "name": "Weathered Wall Objects | Game Ready | 4K",
+      "faceCount": 1104,
+      "isDownloadable": true,
+      "animationCount": 0,
+      "textureCount": 10,
+      "materialCount": 2,
+      "author": "bralunit",
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      }
+    },
+    {
+      "uid": "86a131ecad344c05b166de522469088f",
+      "name": "Metal Trash Bin",
+      "faceCount": 1476,
+      "isDownloadable": true,
+      "animationCount": 0,
+      "textureCount": 4,
+      "materialCount": 1,
+      "author": "neverfollow81",
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      }
+    },
+    {
+      "uid": "e2b2282e32dc48c6bf31369cd800690a",
+      "name": "low poly road barrier",
+      "faceCount": 634,
+      "isDownloadable": true,
+      "animationCount": 0,
+      "textureCount": 5,
+      "materialCount": 1,
+      "author": "muji",
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      }
+    },
+    {
+      "uid": "b2aaa827a4ce49a58b73b769cf85cddd",
+      "name": "Victorian Iron Wall Lantern",
+      "faceCount": 18590,
+      "isDownloadable": true,
+      "animationCount": 0,
+      "textureCount": 0,
+      "materialCount": 4,
+      "author": "Kalabaris",
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      }
+    },
+    {
+      "uid": "43a94ccc57c542f49753cc804a533f4f",
+      "name": "Simple Arched Window",
+      "faceCount": 40172,
+      "isDownloadable": true,
+      "animationCount": 0,
+      "textureCount": 3,
+      "materialCount": 2,
+      "author": "TagnumElite",
+      "license": {
+        "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+        "label": "CC Attribution",
+        "fullName": "Creative Commons Attribution",
+        "requirements": "Author must be credited. Commercial use is allowed.",
+        "url": "http://creativecommons.org/licenses/by/4.0/",
+        "slug": "by"
+      }
+    }
+  ]
+}
