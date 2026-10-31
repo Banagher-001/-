@@ -2,6 +2,8 @@
 
 国王大道护送主题的卡通微缩场景资产资料库。
 
+角色生成输入：[带动作的三位角色 · 15 张独立视图](design/characters-posed/README.md) · [本地角色图册](design/characters-posed/index.html)。猎空冲刺、莱因哈特持锤防守、死神双枪戒备，可用于混元 3D 图生模型。
+
 新增：[18 件单体四视图造型参考](design/assets-turnarounds/README.md) · [本地浏览图册](design/assets-turnarounds/index.html)。每张图板单独展示一件资产，包含正面、右侧、背面和顶面，用于下一轮精细建模。
 
 ## 运行交互作品

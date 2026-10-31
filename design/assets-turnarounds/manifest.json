@@ -330,5 +330,6 @@
       "type": "AI-generated modeling concept sheet, not CAD or a 3D mesh",
       "notes": "倒角底座、石板路、人行道、黄线和排水格栅；布局仍按 40×34 cm 设计坐标。"
     }
-  ]
+  ],
+  "posed_character_references": "../characters-posed/README.md"
 }
